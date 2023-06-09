@@ -1,0 +1,20 @@
+{
+  "name": "mush-bot",
+  "version": "1.0.0",
+  "description": "Um bot que retorna dados do perfil de usuário do Mush.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "author": "knownasbot",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "dayjs": "^1.11.8",
+    "discord.js": "^13.6.0",
+    "dotenv": "^12.0.4",
+    "moment": "^2.29.4",
+    "node-fetch": "^2.6.11"
+  }
+}
