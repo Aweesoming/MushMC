@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node ./src/index.js"
   },
-  "author": "knownasbot",
+  "author": "Awesoming",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.24.0",
