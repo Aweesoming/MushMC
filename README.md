@@ -27,4 +27,3 @@ Antes de executar o bot, certifique-se de ter as seguintes dependências instala
 
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
-/bash```
