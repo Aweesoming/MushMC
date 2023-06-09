@@ -1,4 +1,4 @@
-# Bot Discord.js - Estatísticas MushMC
+# Bot Discord - Estatísticas MushMC
 
 ## Descrição
 
@@ -25,5 +25,27 @@ Antes de executar o bot, certifique-se de ter as seguintes dependências instala
 
 1. Clone o repositório em sua máquina local:
 
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+`git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+
+2. Navegue até o diretório do projeto:
+`cd nome-do-repositorio`
+
+3. Instale as dependências necessárias:
+`npm install`
+
+## Configuração
+Antes de executar o bot, você precisará configurar algumas variáveis de ambiente. Renomeie o arquivo .env.example para .env e preencha as informações necessárias.
+`TOKEN="seu-token-do-bot"`
+
+## Execução
+Após realizar as etapas de instalação e configuração, você pode iniciar o bot com o seguinte comando:
+`npm run start`
+
+## Contribuição
+Este projeto é aberto para contribuições. Caso queira ajudar a melhorar o bot, fique à vontade para fazer um fork do repositório e enviar suas propostas de melhoria através de pull requests.
+
+## Agradecimentos
+Agradecemos ao MushMC pela disponibilização da API que tornou possível o desenvolvimento deste bot.
+
+## Licença
+Este projeto está licenciado sob a Licença MIT.
